@@ -1,2 +1,2 @@
-<!-- use this command to run the project -->
+# use this command to run the project
 python manage.py runserver
